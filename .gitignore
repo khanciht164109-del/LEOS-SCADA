@@ -1,0 +1,6 @@
+energy_data.db
+__pycache__/
+.vscode/
+test_supabase.py
+test_supabase_read.py
+logger.py
